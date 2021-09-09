@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Authors:
+* Dr Lotus Black
+-->
+<resources>
+  <string name="retry">ပြန်လုပ်</string>
+  <string name="download">ဒေါင်းလုဒ်</string>
+</resources>
